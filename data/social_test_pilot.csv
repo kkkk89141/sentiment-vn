@@ -1,0 +1,311 @@
+id,text_raw,source,annotator_1,annotator_2,adjudicated_label,annotation_status,flags
+SM001,"Quá tuyệt vời luôn 😍",facebook,2,2,2,labeled,
+SM002,"Đỉnh của chóp luôn shop ơi, 10 điểm ko có nhưng",tiktok,2,2,2,labeled,teencode
+SM003,"Hàng đẹp vl, đóng gói cẩn thận lắm nha",facebook,2,2,2,labeled,teencode
+SM004,"Giao hàng siêu nhanh, mới đặt hôm qua nay đã nhận đc rồi",tiktok,2,2,2,labeled,teencode
+SM005,"tui thề là cái áo này mặc lên xinh xỉu luôn á trờiii",instagram,2,2,2,labeled,teencode
+SM006,"san pham tot lam nha mn, nen mua",facebook,2,2,2,labeled,no_diacritics|teencode
+SM007,"Xịn sò con bò, đáng đồng tiền bát gạo thật sự",youtube,2,2,2,labeled,
+SM008,"Video hữu ích quá, cảm ơn anh <name> đã chia sẻ ạ!",youtube,2,2,2,labeled,
+SM009,"Nhạc cuốn vcl, nghe đi nghe lại từ sáng tới giờ ko chán",youtube,2,2,2,labeled,teencode
+SM010,"Chúc mừng gia đình <name> nhé, nhìn bé cưng quá đi mất ❤️",facebook,2,2,2,labeled,
+SM011,"Tuyet voi qua ad oi, ung ho shop dai dai",facebook,2,2,2,labeled,no_diacritics
+SM012,"Mê cái vibe của quán này thực sự, nhạc chill mà đồ uống cũng ổn áp",instagram,2,2,2,labeled,code_mix
+SM013,"Món này ăn cũng không tệ, nước chấm pha vừa miệng phết",tiktok,2,2,2,labeled,
+SM014,"Giọng hát live đỉnh dữ thần, nuốt đĩa luôn rồi 👏",youtube,2,2,2,labeled,
+SM015,"Mlem mlem, nhìn thôi đã thấy thèm rồi 😍",tiktok,2,2,2,labeled,teencode
+SM016,"Cảm ơn bác sĩ <name> rất nhiều, nhờ bác mà mẹ em đã khỏe lại",facebook,2,2,2,labeled,
+SM017,"Lần đầu mua hàng trên tiktok mà ưng cái bụng ghê",tiktok,2,2,2,labeled,
+SM018,"Chất vải mát, form chuẩn, nói chung là ưng nha",instagram,2,2,2,labeled,code_mix
+SM019,"Cốt truyện cuốn kinh khủng, diễn viên đóng đạt nữa",youtube,2,2,2,labeled,
+SM020,"Shop tư vấn nhiệt tình dễ thương xỉu, sẽ quay lại ủng hộ tiếp",facebook,2,2,2,labeled,
+SM021,"Đẹpppppp xuất sắc luôn chị ơi ❤️",instagram,2,2,2,labeled,teencode
+SM022,"Không ngờ giá rẻ vậy mà chất lượng ngon lành cành đào",tiktok,2,2,2,labeled,
+SM023,"100 điểm cho sự tinh tế của chương trình!",youtube,2,2,2,labeled,
+SM024,"Gét gô, cuối cùng cũng săn được deal hời rồi AE ơi",facebook,2,2,2,labeled,teencode|code_mix
+SM025,"Phải công nhận bản remake này nghe bắt tai hơn bản gốc nhiều",youtube,2,2,2,labeled,code_mix
+SM026,"Màu son lên môi xinh dã man, ko bị khô môi chút nào",instagram,2,2,2,labeled,teencode
+SM027,"u la troi sao ma de thuong du vay ne",tiktok,2,2,2,labeled,no_diacritics|teencode
+SM028,"Cách giảng bài của thầy cực kỳ dễ hiểu, cứu rỗi kỳ thi của em",youtube,2,2,2,labeled,
+SM029,"Hết nước chấm luôn anh em ạ, quá đã!",facebook,2,2,2,labeled,
+SM030,"Pin trâu bò thật sự, dùng cả ngày onl liên tục vẫn còn 30%",youtube,2,2,2,labeled,teencode
+SM031,"Chúc <name> tuổi mới ngày càng thành công và rực rỡ nhé 🎉",instagram,2,2,2,labeled,
+SM032,"Review có tâm nhất quả đất, 1 like cho chủ kênh",youtube,2,2,2,labeled,code_mix
+SM033,"May quá săn đc chiếc vé cuối cùng, vui muốn khóc luôn",facebook,2,2,2,labeled,teencode
+SM034,"Đồ ăn nóng hổi, shipper thân thiện lễ phép, 5 sao!",tiktok,2,2,2,labeled,code_mix
+SM035,"Không phải dạng vừa đâu, kỹ năng xử lý tình huống quá mượt",youtube,2,2,2,labeled,
+SM036,"Thiết kế sang xịn mịn, cầm chắc tay cực kỳ",instagram,2,2,2,labeled,
+SM037,"Cảm giác được về nhà ăn cơm mẹ nấu thật sự bình yên ❤️",facebook,2,2,2,labeled,
+SM038,"Cười ỉa với mấy pha tấu hài của ông <name>, giải trí vãi",tiktok,2,2,2,labeled,teencode
+SM039,"Hàng auth chuẩn nha mn, check code ra liền, yên tâm mua sắm",instagram,2,2,2,labeled,teencode|code_mix
+SM040,"Quá tự hào Việt Nam ơi! 🇻🇳👏",facebook,2,2,2,labeled,
+SM041,"Góc quay nghệ thuật thật sự, màu phim nhìn mê chữ ê kéo dài",youtube,2,2,2,labeled,
+SM042,"Cảm ơn đời mỗi sớm mai thức dậy, ta có thêm ngày nữa để yêu thương",facebook,2,2,2,labeled,
+SM043,"Nhìn cách bạn ấy nâng niu thú cưng là biết người ấm áp rồi",tiktok,2,2,2,labeled,
+SM044,"Kem chống nắng kiềm dầu tốt, nâng tone tự nhiên, rất đáng thử",instagram,2,2,2,labeled,code_mix
+SM045,"do an ngon, gia ca hop ly, se gioi thieu cho ban be",facebook,2,2,2,labeled,no_diacritics
+SM046,"Tuyệt phẩm! Nghe nổi cả da gà",youtube,2,2,2,labeled,
+SM047,"Mới dùng thử 1 tuần mà da mịn hẳn ra, ưng quá chừng",tiktok,2,2,2,labeled,
+SM048,"Hỗ trợ đổi trả nhanh gọn lẹ, rất hài lòng với dịch vụ CSKH",facebook,2,2,2,labeled,teencode
+SM049,"Bản cập nhật mới mượt hơn hẳn, fix hết lỗi giật lag rồi",youtube,2,2,2,labeled,code_mix
+SM050,"Yêu thương nhiều lắm luôn á 😘❤️",instagram,2,2,2,labeled,
+SM051,"Chờ đợi hơi lâu một xíu nhưng nhận được hàng ưng ý cực kỳ",tiktok,2,2,2,labeled,mixed
+SM052,"Giá hơi chát so với sinh viên nhưng chất lượng thì đỉnh khỏi bàn",facebook,2,2,2,labeled,mixed
+SM053,"Hộp bên ngoài hơi móp do vận chuyển nhưng may mà đồ bên trong vẫn đẹp xuất sắc",tiktok,2,2,2,labeled,mixed
+SM054,"Lúc đầu nghe không quen lắm mà nghe tới lần thứ 3 là nghiện luôn",youtube,2,2,2,labeled,mixed
+SM055,"Quán hơi đông và ồn nhưng bù lại nhân viên phục vụ rất chu đáo và đồ ăn ngon",facebook,2,2,2,labeled,mixed
+SM056,"😍❤️👏",instagram,2,2,2,labeled,emoji_only
+SM057,"🥰🥰🥰👍👍",facebook,2,2,2,labeled,emoji_only
+SM058,"👏👏👏🔥",tiktok,2,2,2,labeled,emoji_only
+SM059,"Ko đc như quảng cáo, thất vọng thật sự",facebook,0,0,0,labeled,teencode
+SM060,"Hàng dởm vl, mặc đúng 1 lần đã bung chỉ tưa lưa",tiktok,0,0,0,labeled,teencode
+SM061,"Treoo đầu dê bán thịt chó à, đặt màu đen giao màu hồng??",facebook,0,0,0,labeled,
+SM062,"Phí tiền, mua về vứt xó chứ không xài được gì hết",tiktok,0,0,0,labeled,
+SM063,"Thái độ nhân viên lồi lõm cực kỳ, hỏi không thèm trả lời khách",facebook,0,0,0,labeled,
+SM064,"do nhu hach, khuyên thật lòng mn đừng nên mua kẻo tiền mất tật mang",tiktok,0,0,0,labeled,no_diacritics|teencode
+SM065,"Nội dung nhảm nhí, câu view rẻ tiền, tốn 10 phút cuộc đời",youtube,0,0,0,labeled,code_mix
+SM066,"Hát live chán ốm, toàn thở với chênh phô mà cũng đòi làm ca sĩ",youtube,0,0,0,labeled,code_mix
+SM067,"Giao hàng lâu vcl, ngâm đơn cả tuần trời ko chịu gửi",tiktok,0,0,0,labeled,teencode
+SM068,"Đồ ăn nguội ngắt, mặn chát như đổ cả gói muối vào vậy",facebook,0,0,0,labeled,
+SM069,"Lừa đảo trắng trợn! Nhận tiền xong block khách luôn",instagram,0,0,0,labeled,code_mix
+SM070,"Quảng cáo cho cố vô rồi làm ăn như cái quần què",facebook,0,0,0,labeled,
+SM071,"Ứng dụng lỗi tùm lum, cứ vào đến phần thanh toán là văng ra",youtube,0,0,0,labeled,
+SM072,"Vải mỏng dính như tờ giấy, nhìn xuyên thấu luôn mà bán 300k",tiktok,0,0,0,labeled,
+SM073,"Tẩy chay nhãn hàng này đi mn ơi, coi thường khách hàng quá đáng",facebook,0,0,0,labeled,teencode
+SM074,"lam an bat tin qua, hen giao truoc 12h ma 5h chieu moi toi",facebook,0,0,0,labeled,no_diacritics
+SM075,"Diễn xuất đơ như cây cơ, thoại thì như trả bài",youtube,0,0,0,labeled,
+SM076,"Bực mình thật sự, nhắn tin khiếu nại từ hôm qua tới giờ chỉ xem không rep",instagram,0,0,0,labeled,teencode|code_mix
+SM077,"Mùi hương nồng nặc mùi hóa chất, xịt vào đau hết cả đầu",tiktok,0,0,0,labeled,
+SM078,"Pin tụt nhanh hơn tụt quần, mới sạc đầy dùng 1 tiếng còn 20%",youtube,0,0,0,labeled,
+SM079,"Thất vọng toàn tập, không có lần thứ 2 quay lại quán này",facebook,0,0,0,labeled,
+SM080,"Đóng gói sơ sài, không có xốp chống sốc, bể nát bét cả hộp phấn",tiktok,0,0,0,labeled,
+SM081,"Càng ngày càng làm nội dung rác, mất chất hồi xưa rồi",youtube,0,0,0,labeled,
+SM082,"Ko hay một chút nào, kịch bản rời rạc vô lý đùng đùng",youtube,0,0,0,labeled,teencode
+SM083,"Tệ hại từ khâu bảo vệ đến khâu thu ngân, né gấp!",facebook,0,0,0,labeled,
+SM084,"Mua trúng hàng cận date, còn đúng 1 tuần nữa là hết hạn sử dụng 😡",tiktok,0,0,0,labeled,code_mix
+SM085,"Giọng đọc AI nghe vô hồn và khó chịu kinh khủng",youtube,0,0,0,labeled,
+SM086,"Bẩn kinh hoàng, trong bát bún còn nguyên con ruồi mà quán chỉ cười trừ",facebook,0,0,0,labeled,
+SM087,"Đúng là đồ rẻ tiền, tiền nào của nấy thôi chán chẳng buồn nói",tiktok,0,0,0,labeled,
+SM088,"Cạch mặt shop này tới già, làm ăn thiếu chuyên nghiệp",instagram,0,0,0,labeled,
+SM089,"Sách in lậu hay sao mà chữ mờ tịt, giấy thì đen sì",tiktok,0,0,0,labeled,
+SM090,"Trải nghiệm tồi tệ nhất trong các chuyến du lịch từ trước tới nay",facebook,0,0,0,labeled,
+SM091,"Thằng <name> nói chuyện mất dạy vô học thật sự, nghe mà ngứa tai",youtube,0,0,0,labeled,
+SM092,"Cả một lũ ăn hại, làm việc tắc trách gây hậu quả nghiêm trọng",facebook,0,0,0,labeled,
+SM093,"Nhìn mặt con <name> hãm tài vl, suốt ngày lên mạng khóc lóc kể khổ",tiktok,0,0,0,labeled,teencode
+SM094,"Sao trên đời lại có kiểu người vô duyên thúi như vậy nhỉ?",facebook,0,0,0,labeled,rhetorical_question
+SM095,"Sao dở vậy trời? Đạo diễn nghĩ gì mà duyệt cái kịch bản này?",youtube,0,0,0,labeled,rhetorical_question
+SM096,"Ủa bán hàng kiểu gì kỳ cục vậy má? Khách hỏi đàng hoàng mà chửi khách?",tiktok,0,0,0,labeled,rhetorical_question
+SM097,"Làm ăn thế này mà cũng đòi tồn tại trên thị trường được à?",facebook,0,0,0,labeled,rhetorical_question
+SM098,"Mắt mũi để đi đâu mà giao nhầm cả size lẫn màu thế hả shop?",instagram,0,0,0,labeled,rhetorical_question
+SM099,"Giao hàng nhanh quá ha, đặt cho mùa đông năm nay mà mùa đông năm sau mới nhận được 🙃",tiktok,0,0,0,labeled,sarcasm
+SM100,"Quán phục vụ tốt ghê, vào ngồi nửa tiếng chưa thấy ai mang cái menu ra 🤡",facebook,0,0,0,labeled,sarcasm
+SM101,"Giỏi lắm, thông minh lắm, phá banh hết cả cái máy của người ta rồi 👏🙃",youtube,0,0,0,labeled,sarcasm
+SM102,"Hàng chất lượng cao thật sự, mới cắm điện 5 giây đã nổ cái đùng 🤡",tiktok,0,0,0,labeled,sarcasm
+SM103,"Hay quá ha, lấy nhạc của người khác không xin phép rồi nhận vơ là sáng tác của mình",youtube,0,0,0,labeled,sarcasm
+SM104,"Chăm sóc khách hàng đỉnh ghê, khách báo lỗi cái là chặn số luôn 🙃",facebook,0,0,0,labeled,sarcasm
+SM105,"Áo form đẹp lắm nhưng mặc vào nóng như cái lò bát quái, ngứa điên người",tiktok,0,0,0,labeled,mixed
+SM106,"Phim kỹ xảo thì hoành tráng đấy nhưng nội dung rỗng tuếch, xem phí cả tiền vé",youtube,0,0,0,labeled,mixed
+SM107,"Nhân viên tư vấn lúc mua thì ngọt xớt mà lúc bảo hành thì thái độ lấc cấc không chịu được",facebook,0,0,0,labeled,mixed
+SM108,"Giao diện web nhìn bắt mắt tuy nhiên tốc độ load chậm rì, toàn báo lỗi hệ thống",facebook,0,0,0,labeled,mixed|code_mix
+SM109,"Màu sắc giống hình nhưng chất vải cực kỳ tệ, giặt 1 lần đã xù lông hết cả",instagram,0,0,0,labeled,mixed
+SM110,"Đọc tin mà đau lòng quá, thương các em nhỏ vùng lũ thật sự 😢",facebook,0,0,0,labeled,sympathy
+SM111,"Xin chia buồn cùng gia đình anh <name>, mong anh yên nghỉ nơi chín suối 🙏😭",facebook,0,0,0,labeled,sympathy
+SM112,"Nhìn cảnh cụ già ngồi co ro dưới mưa bán từng mớ rau mà xót xa rơi nước mắt",tiktok,0,0,0,labeled,sympathy
+SM113,"Thương bé quá, mới từng tuổi này đã phải chịu nhiều đau đớn vì bệnh tật 😔",youtube,0,0,0,labeled,sympathy
+SM114,"Buồn thật sự khi nghe tin thần tượng một thời của mình qua đời",instagram,0,0,0,labeled,sympathy
+SM115,"😡😤👎",facebook,0,0,0,labeled,emoji_only
+SM116,"🤮🤮👎👎",tiktok,0,0,0,labeled,emoji_only
+SM117,"😤😡💢",instagram,0,0,0,labeled,emoji_only
+SM118,"Giá bao nhiêu vậy ad?",facebook,1,1,1,labeled,
+SM119,"Shop có ship COD về tỉnh Bình Dương không ạ?",tiktok,1,1,1,labeled,code_mix
+SM120,"Mẫu này còn size XL cho người 75kg ko shop?",instagram,1,1,1,labeled,teencode|code_mix
+SM121,"Cho mình xin địa chỉ cụ thể của chi nhánh quận 3 với",facebook,1,1,1,labeled,
+SM122,"Bài hát ở phút thứ 03:45 tên là gì vậy mọi người?",youtube,1,1,1,labeled,
+SM123,"Chiều cao 1m60 nặng 48kg thì mặc size S hay M vừa ạ?",tiktok,1,1,1,labeled,code_mix
+SM124,"Quán mở cửa từ mấy giờ đến mấy giờ thế nhỉ?",facebook,1,1,1,labeled,
+SM125,"Sản phẩm này dùng được cho phụ nữ đang mang thai không bác sĩ?",youtube,1,1,1,labeled,
+SM126,"Khi nào thì có hàng đợt mới về tiếp vậy ad ơi?",instagram,1,1,1,labeled,
+SM127,"Có ai biết cách chuyển ngôn ngữ sang tiếng Việt trong phần cài đặt không chỉ mình với",youtube,1,1,1,labeled,
+SM128,"ib gia si nha shop",facebook,1,1,1,labeled,no_diacritics|teencode
+SM129,"Cái này bảo hành trong bao lâu và điều kiện bảo hành thế nào?",tiktok,1,1,1,labeled,
+SM130,"Phim này chiếu ở rạp từ ngày nào vậy các bác?",facebook,1,1,1,labeled,
+SM131,"Bàn phím trong video là mã gì thế anh <name>?",youtube,1,1,1,labeled,
+SM132,"Shop ở Hà Nội hay TP.HCM vậy?",tiktok,1,1,1,labeled,
+SM133,"Link sản phẩm ở đâu vậy ạ, mình tìm trong bio không thấy",instagram,1,1,1,labeled,code_mix
+SM134,"Hạn sử dụng của lô hàng này là đến tháng mấy năm 2027?",tiktok,1,1,1,labeled,
+SM135,"Mình đã nhắn tin vào fanpage rồi, check tin nhắn chờ giúp mình nhé",facebook,1,1,1,labeled,code_mix
+SM136,"Đơn hàng mã #88392 của mình đang vận chuyển tới đâu rồi shop?",tiktok,1,1,1,labeled,
+SM137,"Sự kiện ngày mai bắt đầu lúc 8h sáng tại hội trường A nhé mọi người",facebook,1,1,1,labeled,
+SM138,"Trong hộp sản phẩm bao gồm 1 thân máy, 1 cáp sạc Type-C và sách hướng dẫn sử dụng",youtube,1,1,1,labeled,
+SM139,"Tập 5 sẽ được phát sóng vào lúc 20h tối thứ Sáu tuần này trên kênh YouTube chính thức",youtube,1,1,1,labeled,
+SM140,"@user @user xem lịch học tuần sau ở thông báo này nè",facebook,1,1,1,labeled,
+SM141,"@user vào đọc hướng dẫn đăng ký tín chỉ đi mày",facebook,1,1,1,labeled,
+SM142,"@user cái áo hôm trước mày tìm phải mẫu này không?",instagram,1,1,1,labeled,
+SM143,"Lưu lại để lúc nào rảnh lấy ra làm theo công thức",tiktok,1,1,1,labeled,
+SM144,"Chấm cái để đỡ trôi bài, tối về đọc tiếp",facebook,1,1,1,labeled,
+SM145,"Đã xem hết video lúc 2h sáng",youtube,1,1,1,labeled,
+SM146,"Điểm danh những người đang đọc bình luận khi đang nghe nhạc",youtube,1,1,1,labeled,
+SM147,"Mình dùng loại màu xanh lá được 2 tháng rồi",tiktok,1,1,1,labeled,
+SM148,"Nay đi ngang qua thấy quán đang sửa chữa mặt tiền",facebook,1,1,1,labeled,
+SM149,"Cũng bình thường, không quá xuất sắc nhưng cũng không đến nỗi tệ",youtube,1,1,1,labeled,
+SM150,"Món này vị ăn tạm được, giống mấy quán bình dân khác thôi",tiktok,1,1,1,labeled,
+SM151,"Thiết kế đẹp mắt, sang trọng, còn độ bền thì vừa mới mua nên chưa biết thế nào",facebook,1,1,1,labeled,mixed
+SM152,"Giá cả thì rẻ thật đấy, cơ mà tiền ship về tỉnh lại cao ngang tiền hàng",tiktok,1,1,1,labeled,mixed
+SM153,"Nhạc phim hay, cảnh quay đẹp, mỗi tội nhịp phim hơi chậm",youtube,1,1,1,labeled,mixed
+SM154,"Ưu điểm là pin trâu, màn hình sáng; nhược điểm là máy hơi nặng và sạc chậm",youtube,1,1,1,labeled,mixed
+SM155,"Nhận làm bằng đại học, chứng chỉ ngoại ngữ toàn quốc, liên hệ Zalo <phone>",facebook,1,1,1,labeled,spam
+SM156,"Tuyển cộng tác viên gõ văn bản tại nhà, thu nhập 300k/ngày, chi tiết tại <url>",facebook,1,1,1,labeled,spam
+SM157,"Ai muốn tăng tương tác, kéo follow thật tự nhiên thì ghé trang cá nhân mình nhé",tiktok,1,1,1,labeled,spam|code_mix
+SM158,"Bán căn hộ chung cư 2 phòng ngủ chính chủ khu vực Cầu Giấy, LH <phone>",youtube,1,1,1,labeled,spam
+SM159,"Cho vay tiêu dùng giải ngân trong 15 phút chỉ cần CCCD, liên hệ <url>",facebook,1,1,1,labeled,spam
+SM160,"Chuyên sỉ lẻ quần áo Quảng Châu tận gốc không qua trung gian, kết bạn <phone>",instagram,1,1,1,labeled,spam
+SM161,"Cần pass lại 2 vé concert hạng GA giá gốc do bận việc đột xuất, ib mình",facebook,1,1,1,labeled,code_mix
+SM162,"Video này quay ở Đà Lạt đoạn dốc Nhà Bò đúng không mọi người?",tiktok,1,1,1,labeled,
+SM163,"Theo thông tin trên báo thì dự án này sẽ hoàn thành vào quý 4 năm sau",facebook,1,1,1,labeled,
+SM164,"Mình cao 1m72 mặc quần này dài tới mắt cá chân nhé các bạn",tiktok,1,1,1,labeled,
+SM165,"Tập trước kết thúc ở đoạn nhân vật chính mở cánh cửa bí mật",youtube,1,1,1,labeled,
+SM166,"Hôm nay thời tiết Hà Nội 24 độ C, trời nhiều mây không mưa",facebook,1,1,1,labeled,
+SM167,"Phiên bản 256GB hiện đang có 3 màu là Đen, Trắng và Xanh Titan",youtube,1,1,1,labeled,
+SM168,"Shop mình nghỉ lễ từ 30/4 đến hết ngày 2/5, ngày 3/5 hoạt động lại bình thường",instagram,1,1,1,labeled,
+SM169,"Để nấu món này cần chuẩn bị 500g thịt ba chỉ, 3 củ hành tím và nước mắm",tiktok,1,1,1,labeled,
+SM170,"cho hoi cai nay co dung duoc cho iphone 13 khong",tiktok,1,1,1,labeled,no_diacritics
+SM171,"Có ship nội thành Hà Nội trong ngày hôm nay không shop?",facebook,1,1,1,labeled,
+SM172,"Bạn nào có file PDF tài liệu trong video cho mình xin với ạ",youtube,1,1,1,labeled,
+SM173,"Bình luận này chỉ mang tính chất lấy tương tác",facebook,1,1,1,labeled,
+SM174,"Ai xem TikTok quá 180 phút mỗi ngày điểm danh",tiktok,1,1,1,labeled,
+SM175,"Phần 2 bao giờ mới ra mắt vậy tác giả ơi?",youtube,1,1,1,labeled,
+SM176,"Mình đặt hàng từ tối thứ Bảy thì khoảng thứ mấy nhận được?",instagram,1,1,1,labeled,
+SM177,"Thanh toán qua thẻ tín dụng có được trả góp 0% không ad?",facebook,1,1,1,labeled,
+SM178,"Dòng máy này sản xuất năm 2024 tại nhà máy Bắc Ninh",youtube,1,1,1,labeled,
+SM179,"Cho mình đặt 2 suất cơm sườn không hành giao tới số 10 Đại Cồ Việt nhé",facebook,1,1,1,labeled,
+SM180,"Lịch thi cuối kỳ đã được cập nhật trên cổng thông tin sinh viên rồi nha @user",facebook,1,1,1,labeled,
+SM181,"Tuyệt cà là vời luôn bác ơi, xứng đáng triệu view!",youtube,2,2,2,labeled,code_mix
+SM182,"Shop đóng hàng kỹ dã man, tháo 3 lớp chống sốc mới tới hộp hàng, ưng!",tiktok,2,2,2,labeled,
+SM183,"Nghe bài này xong tự nhiên thấy yêu đời hẳn lên ❤️",youtube,2,2,2,labeled,
+SM184,"Áo mặc lên tôn dáng cực kỳ, che khuyết điểm bắp tay tốt lắm nha",instagram,2,2,2,labeled,
+SM185,"Thầy giảng nhiệt huyết thực sự, học 3 tiếng mà không thấy mệt chút nào",facebook,2,2,2,labeled,
+SM186,"Ngon nhức cái nách luôn mn ơi, nhất định phải thử món sườn nướng nhé!",tiktok,2,2,2,labeled,teencode
+SM187,"Chúc shop buôn may bán đắt, hàng chất lượng thế này chắc chắn sẽ ủng hộ dài lâu",facebook,2,2,2,labeled,
+SM188,"Đẹp không góc chết luôn á trời, visual đỉnh của chóp 😍",instagram,2,2,2,labeled,code_mix|teencode
+SM189,"Cảm ơn đội ngũ tình nguyện viên đã không quản ngại mưa gió giúp đỡ bà con!",facebook,2,2,2,labeled,
+SM190,"Mượt như Sunsilk luôn anh em ơi, cài xong chạy vù vù",youtube,2,2,2,labeled,
+SM191,"Hàng chuẩn chỉnh, giống hình 100%, không bị lệch màu tí nào",tiktok,2,2,2,labeled,
+SM192,"Cười muốn nội thương với cái kết, sáng tạo thật sự 😂👍",tiktok,2,2,2,labeled,
+SM193,"Bác tài xế cực kỳ có tâm, còn dắt cụ già qua đường nữa, ấm lòng quá!",facebook,2,2,2,labeled,
+SM194,"Mua đợt sale còn có 99k mà nhận cái túi xịn xò bất ngờ luôn",tiktok,2,2,2,labeled,code_mix
+SM195,"Giọng <name> ngọt như mía lùi, nghe êm tai gì đâu á",youtube,2,2,2,labeled,
+SM196,"Kem thấm nhanh, không bết rít, mùi thơm dịu nhẹ rất dễ chịu",instagram,2,2,2,labeled,
+SM197,"cam on ad da chia se kien thuc bo ich, chuc kenh ngay cang phat trien",youtube,2,2,2,labeled,no_diacritics
+SM198,"Đồ uống pha vừa vặn, không bị ngọt gắt, trân châu dai mềm ngon lắm",facebook,2,2,2,labeled,
+SM199,"Lần thứ 5 mua của shop rồi và chưa bao giờ làm mình thất vọng ❤️",tiktok,2,2,2,labeled,
+SM200,"Quá xuất sắc, xứng đáng giải nhất cuộc thi năm nay!",facebook,2,2,2,labeled,
+SM201,"Không tốn công chờ đợi suốt 2 tháng trời, siêu phẩm thực sự!",youtube,2,2,2,labeled,
+SM202,"Hôm qua hơi mệt tính không đi mà đi rồi mới thấy concert cháy hết mình luôn 🔥",facebook,2,2,2,labeled,mixed|code_mix
+SM203,"Cốt truyện ban đầu hơi rối nhưng càng về cuối càng cuốn không rời mắt được",youtube,2,2,2,labeled,mixed
+SM204,"Bàn phím gõ hơi ồn một chút nhưng cảm giác gõ cực kỳ sướng tay, rất đáng tiền",tiktok,2,2,2,labeled,mixed
+SM205,"Đường vào homestay hơi khó tìm nhưng cảnh sắc và không khí ở đây thì tuyệt vời",instagram,2,2,2,labeled,mixed|code_mix
+SM206,"Cứ tưởng hàng giá rẻ thì chất lượng kém, ai dè nhận về đẹp mê ly luôn",tiktok,2,2,2,labeled,
+SM207,"Ban đầu cũng bán tín bán nghi mà dùng thử xong là mê tít luôn nha",facebook,2,2,2,labeled,
+SM208,"Thích cái cách shop xử lý sự cố, gửi bù hàng mới ngay lập tức mà ko tính thêm phí",tiktok,2,2,2,labeled,teencode
+SM209,"Một bộ phim chữa lành tâm hồn cực kỳ hiệu quả sau chuỗi ngày làm việc căng thẳng",youtube,2,2,2,labeled,
+SM210,"Chúc hai bạn trăm năm hạnh phúc, sớm sinh quý tử nha 🥂💖",facebook,2,2,2,labeled,
+SM211,"Nói chuyện nghe chối tỉ thật sự, kiến thức thì rỗng mà cứ thích dạy đời",youtube,0,0,0,labeled,
+SM212,"Mua cái nồi chiên không dầu về dùng đúng 2 lần thì cháy nguồn, bảo hành thì hẹn lên hẹn xuống",facebook,0,0,0,labeled,
+SM213,"Đồ ăn vừa đắt vừa ít, đĩa mì xào 80k lèo tèo được 3 miếng thịt bò mỏng dính",tiktok,0,0,0,labeled,
+SM214,"Nhạc nhẽo gì nghe như đấm vào tai, autotune méo cả giọng",youtube,0,0,0,labeled,code_mix
+SM215,"Shop làm ăn bố láo, gửi hàng rách nát xong đổ thừa cho bên vận chuyển",tiktok,0,0,0,labeled,
+SM216,"Tốn công tải game về chơi thử mà toàn quảng cáo với hút máu, xóa luôn sau 5 phút",youtube,0,0,0,labeled,code_mix
+SM217,"Kem trộn trá hình chứ dưỡng trắng cái gì, bôi vào nổi mụn bọc khắp mặt 😭😡",instagram,0,0,0,labeled,
+SM218,"Thất vọng thực sự, thần tượng bao năm mà lại có hành xử thiếu văn hóa như vậy",facebook,0,0,0,labeled,
+SM219,"Web sập liên tục từ sáng tới giờ, làm trễ hết cả công việc của người ta!",facebook,0,0,0,labeled,code_mix
+SM220,"Quần may lệch ống, đường chỉ thì thừa thãi nhăn nhúm, tệ hơn hàng chợ",tiktok,0,0,0,labeled,
+SM221,"chan cha buon noi, dat 3 mon giao thieu 1 mon ma nhan tin ko thay hoi am",tiktok,0,0,0,labeled,no_diacritics|teencode
+SM222,"Mùi tanh nồng không tài nào nuốt nổi, phải bỏ nguyên cả tô",facebook,0,0,0,labeled,
+SM223,"Đã dặn đi dặn lại là không bỏ cay cho trẻ con ăn mà vẫn cho cả đống ớt vào!",tiktok,0,0,0,labeled,
+SM224,"Phim dài dòng lê thê, tình tiết vô lý, ngồi trong rạp mà ngáp ngắn ngáp dài",youtube,0,0,0,labeled,
+SM225,"Giày đi đau chân kinh khủng, phần gót cứng ngắc làm trầy hết cả da",instagram,0,0,0,labeled,
+SM226,"Tuyệt vời quá cơ, sửa máy từ lợn lành thành lợn què luôn rồi 🙃👏",facebook,0,0,0,labeled,sarcasm
+SM227,"Đóng gói kỹ ghê ha, quấn đúng 1 lớp nilon mỏng tanh cho hàng dễ vỡ 🤡",tiktok,0,0,0,labeled,sarcasm
+SM228,"Tư vấn có tâm ghê, khách cao 1m50 nặng 42kg mà tư vấn mặc size XL rộng như cái bao tải 🙃",instagram,0,0,0,labeled,sarcasm|code_mix
+SM229,"Ủa rồi tiền thuế của dân đóng vào để làm ra cái công trình sụt lún thế này hả?",facebook,0,0,0,labeled,rhetorical_question
+SM230,"Bán buôn kiểu chụp giật thế này thì ai dám quay lại mua lần 2 hả trời?",tiktok,0,0,0,labeled,rhetorical_question
+SM231,"Có cái lỗi đăng nhập đơn giản thế thôi mà mấy tháng trời dev không fix nổi à?",youtube,0,0,0,labeled,rhetorical_question|code_mix
+SM232,"Quán trang trí rất đẹp và nhiều góc sống ảo nhưng đồ uống dở tệ và giá quá cắt cổ",instagram,0,0,0,labeled,mixed
+SM233,"Anh nhân viên giao hàng rất nhiệt tình dễ thương nhưng sản phẩm của shop thì chất lượng quá kém",tiktok,0,0,0,labeled,mixed
+SM234,"Khởi đầu phim khá hấp dẫn và kịch tính tuy nhiên cái kết lại đầu voi đuôi chuột gây ức chế",youtube,0,0,0,labeled,mixed
+SM235,"Thương bà cụ quá, trời nắng 40 độ vẫn phải đẩy xe rác mưu sinh 😢",tiktok,0,0,0,labeled,sympathy
+SM236,"Đọc tâm sự của bạn mà mình cũng thấy nghẹn ngào theo, cố gắng vượt qua giai đoạn khó khăn này nhé 😔",facebook,0,0,0,labeled,sympathy
+SM237,"Xót xa quá, vụ cháy làm thiệt hại bao nhiêu tài sản tích góp cả đời của người dân 😭",facebook,0,0,0,labeled,sympathy
+SM238,"Đồ tồi tệ, lũ vô lương tâm chuyên đi lừa gạt người già!",facebook,0,0,0,labeled,
+SM239,"Cút khỏi chương trình đi, nhìn thái độ kênh kiệu ngứa cả mắt!",youtube,0,0,0,labeled,
+SM240,"Mất tiền mua bực vào người, đúng là rước họa vào thân",tiktok,0,0,0,labeled,
+SM241,"Cái máy xay sinh tố ở góc bếp là của hãng nào vậy chị ơi?",tiktok,1,1,1,labeled,
+SM242,"Từ sân bay Nội Bài về trung tâm phố cổ đi xe buýt số mấy tiện nhất ạ?",facebook,1,1,1,labeled,
+SM243,"Khóa học này học online qua Zoom hay học trực tiếp tại trung tâm vậy ad?",facebook,1,1,1,labeled,code_mix
+SM244,"Có bản màu trắng ngà cho dòng sản phẩm này không shop?",instagram,1,1,1,labeled,
+SM245,"Cho mình hỏi thủ tục đổi bằng lái xe hạng B2 online cần chuẩn bị những giấy tờ gì?",youtube,1,1,1,labeled,code_mix
+SM246,"Mình đặt nhầm địa chỉ nhận hàng, nhờ shop hủy đơn cũ để mình đặt lại đơn mới nhé",tiktok,1,1,1,labeled,
+SM247,"Tổng hợp danh sách các đội lọt vào vòng chung kết giải đấu mùa xuân năm nay",youtube,1,1,1,labeled,
+SM248,"@user nhớ mang theo áo mưa nhé, dự báo chiều nay có mưa dông đấy",facebook,1,1,1,labeled,
+SM249,"Bài viết chỉ mang tính chất tham khảo, mọi người nên hỏi ý kiến chuyên gia trước khi áp dụng",facebook,1,1,1,labeled,
+SM250,"Video được ghi hình vào tháng 10 năm ngoái tại Hà Giang",youtube,1,1,1,labeled,
+SM251,"Mình thấy chất lượng cũng ở mức trung bình, đúng với tầm giá 150k thôi",tiktok,1,1,1,labeled,
+SM252,"Chưa dùng thử nên chưa đánh giá được chất lượng, tạm thời cho 3 sao đã",tiktok,1,1,1,labeled,
+SM253,"Áo thì dày dặn ấm áp, còn quần đi kèm trong set thì hơi mỏng",instagram,1,1,1,labeled,mixed|code_mix
+SM254,"Cốt truyện có điểm sáng tạo mới mẻ, mặt khác diễn xuất của dàn cast phụ còn hơi non",youtube,1,1,1,labeled,mixed|code_mix
+SM255,"Nhận chạy quảng cáo Facebook, TikTok cam kết ra đơn, liên hệ ngay <phone>",facebook,1,1,1,labeled,spam
+SM256,"Thanh lý tủ lạnh, máy giặt cũ giá sinh viên tại khu vực Bách Khoa, gọi <phone>",facebook,1,1,1,labeled,spam
+SM257,"Kênh mình chuyên làm về tóm tắt phim kinh dị, mong mọi người ghé qua ủng hộ ạ",youtube,1,1,1,labeled,spam
+SM258,"Tặng miễn phí khóa học tiếng Anh giao tiếp cho 50 bạn đăng ký sớm nhất tại <url>",instagram,1,1,1,labeled,spam
+SM259,"@user @user tối nay 7h tập trung ở cổng trường nhé",facebook,1,1,1,labeled,
+SM260,"Dây sạc này dài 1m hay 2m vậy shop?",tiktok,1,1,1,labeled,
+SM261,"Đã nhận được hàng chiều nay, để dùng thử vài hôm rồi quay lại đánh giá chi tiết sau",tiktok,1,1,1,labeled,
+SM262,"Chương trình khuyến mãi mua 1 tặng 1 áp dụng đến hết Chủ nhật tuần này",facebook,1,1,1,labeled,
+SM263,"Ai đang xem video này vào năm 2026 giơ tay!",youtube,1,1,1,labeled,
+SM264,"Phút 12:30 là cảnh quay bằng flycam trên đỉnh đèo Mã Pí Lèng",youtube,1,1,1,labeled,code_mix
+SM265,"Shop check inbox tư vấn giúp mình mẫu giày chạy bộ nhé",instagram,1,1,1,labeled,code_mix
+SM266,"Một số hình ảnh hậu trường của đoàn làm phim trong ngày bấm máy đầu tiên",facebook,1,1,1,labeled,
+SM267,"Cách làm: trộn đều bột mì với trứng và sữa tươi, sau đó ủ trong 30 phút",tiktok,1,1,1,labeled,
+SM268,"Lượng mưa đo được sáng nay tại trạm Láng là 45mm",facebook,1,1,1,labeled,
+SM269,"Bên mình có xuất hóa đơn đỏ VAT cho công ty không ạ?",facebook,1,1,1,labeled,
+SM270,"Cấu hình tối thiểu để chơi tựa game này là RAM 16GB và card GTX 1660",youtube,1,1,1,labeled,code_mix
+SM271,"Hàng xịn giá tốt, sẽ giới thiệu cho cả phòng cùng mua ủng hộ shop!",tiktok,2,2,2,labeled,
+SM272,"Nghe câu hát mà bồi hồi xúc động, kỷ niệm tuổi thơ ùa về đẹp quá ❤️",youtube,2,2,2,labeled,
+SM273,"Thích cách nói chuyện duyên dáng và thông minh của chị <name> cực kỳ luôn",facebook,2,2,2,labeled,
+SM274,"Đặt giao hỏa tốc 30 phút là có mặt, cứu đói đêm khuya quá tuyệt vời!",tiktok,2,2,2,labeled,
+SM275,"Bố cục ảnh hài hòa, ánh sáng đẹp, mẫu diễn cũng rất có thần thái 👍",instagram,2,2,2,labeled,
+SM276,"Phí cả 2 tiếng đồng hồ ngồi xem, kết thúc lãng xẹt không thể chấp nhận được",youtube,0,0,0,labeled,
+SM277,"Tránh xa cái tiệm sửa xe ở ngã tư này ra nhé mn, chuyên chặt chém và luộc đồ!",facebook,0,0,0,labeled,teencode
+SM278,"Hàng giả hàng nhái trắng trợn, quét mã vạch không ra thông tin gì cả 😡",tiktok,0,0,0,labeled,
+SM279,"Nhân viên mặt nặng mày nhẹ như khách đi xin ăn không bằng, quá tệ!",facebook,0,0,0,labeled,
+SM280,"Sách dịch cẩu thả, câu cú lủng củng như dùng Google Dịch vậy, đọc ức chế vl",tiktok,0,0,0,labeled,teencode
+SM281,"😂",tiktok,1,2,,ambiguous,emoji_only
+SM282,"😭",facebook,0,2,,ambiguous,emoji_only
+SM283,"🙃",instagram,0,1,,ambiguous,emoji_only
+SM284,"😅😅",youtube,1,2,,ambiguous,emoji_only
+SM285,"🤡",tiktok,0,1,,ambiguous,emoji_only
+SM286,"Đúng là chỉ có anh <name> mới làm được chuyện này thôi đấy",facebook,0,2,,ambiguous,needs_context
+SM287,"Thế này thì chịu hẳn rồi, không còn gì để nói nữa",tiktok,0,2,,ambiguous,needs_context
+SM288,"Nhìn cái kết mà đứng hình mất 5 giây luôn á",youtube,1,2,,ambiguous,needs_context
+SM289,"Lại tiếp tục chuyên mục mỗi ngày một câu chuyện của chị ấy",facebook,0,1,,ambiguous,needs_context
+SM290,"Quả xử lý đi vào lòng đất thật sự 😂",tiktok,0,2,,ambiguous,needs_context|teencode
+SM291,"Cũng là một trải nghiệm đáng nhớ trong đời đấy chứ",instagram,0,2,,ambiguous,needs_context
+SM292,"Kịch bản quen thuộc quá nhỉ mọi người",youtube,0,1,,ambiguous,needs_context
+SM293,"Chắc chỉ có mình tôi hiểu ý nghĩa thật sự của bức ảnh này",facebook,1,2,,ambiguous,needs_context
+SM294,"cjj kkk vkl chs luon a",tiktok,0,1,,ambiguous,teencode|no_diacritics
+SM295,"vl thật sự luôn á trời ơi 😭😂",tiktok,0,2,,ambiguous,teencode
+SM296,"Nghe xong muốn trầm cảm luôn mà vẫn phải bật cười",youtube,0,2,,ambiguous,mixed
+SM297,"Hay lắm, cứ thế mà phát huy tiếp nhé bạn trẻ",facebook,0,2,,ambiguous,needs_context
+SM298,"Đúng chuẩn thương hiệu của năm luôn rồi còn gì",tiktok,0,2,,ambiguous,needs_context
+SM299,"Bất ngờ chưa bà già 😂🙃",tiktok,1,2,,ambiguous,needs_context
+SM300,"Vẫn như mọi khi thôi, không có gì thay đổi cả",youtube,0,1,,ambiguous,needs_context
+SM301,"@user @user @user",facebook,,,,excluded,
+SM302,"<url>",facebook,,,,excluded,
+SM303,"@user <url>",instagram,,,,excluded,
+SM304,"This product is amazing, fast shipping and great quality!",tiktok,,,,excluded,
+SM305,"Where can I buy this item with international shipping?",instagram,,,,excluded,
+SM306,"I love this song so much, listening from Thailand ❤️",youtube,,,,excluded,
+SM307,"<name>",facebook,,,,excluded,
+SM308,"@user",tiktok,,,,excluded,
+SM309,"Great video! Please add English subtitles next time.",youtube,,,,excluded,
+SM310,"   ",facebook,,,,excluded,

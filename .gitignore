@@ -1,1 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Môi trường ảo (virtualenv)
+venv/
 .venv/
+env/
+
+# Artifacts & Checkpoints dung lượng lớn
+artifacts/
+*.pt
+*.bin
+*.onnx
+
+# Báo cáo dạng ảnh/tạm thời
+reports/figures/*.png

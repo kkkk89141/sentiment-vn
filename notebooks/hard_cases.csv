@@ -1,0 +1,34 @@
+Hard cases v1 · CSV
+case_id,text,category,expected_label,ambiguous,flags,rationale
+H01,Video này không tệ đâu,negation,2,0,,'không tệ' ≈ khen nhẹ (4.2)
+H02,Không hay chút nào luôn,negation,0,0,,phủ định của 'hay' (4.2)
+H03,Chẳng có gì để chê,negation,2,0,,phủ định kép mang nghĩa khen
+H04,Đẹp vl 😍,slang_intensifier,2,0,,"'vl' chỉ tăng nghĩa, không đảo cực (4.2)"
+H05,"Dở vl, xem phí thời gian",slang_intensifier,0,0,,'vl' tăng nghĩa tiêu cực
+H06,Hay dữ vậy trời,slang_intensifier,2,0,,'dữ' = rất; không phải nghĩa tiêu cực
+H07,Đỉnh của chóp 👏,slang_positive,2,0,,thành ngữ lóng khen
+H08,"Ko đc như quảng cáo, thất vọng",teencode,0,0,teencode,giải mã: 'không được'
+H09,"Cx dc, k có j đặc biệt",teencode,1,0,teencode,"'cũng được, không có gì đặc biệt' → lưng chừng (neutral)"
+H10,Quá tuyệt vời luônnnn 😘😘,elongated_chars,2,0,,"kéo dài ký tự, không đổi cực"
+H11,"Tuyet voi, cam on ban nhieu",no_diacritics,2,0,no_diacritics,không dấu (4.3)
+H12,"Toi te qua, lan sau khong ung ho nua",no_diacritics,0,0,no_diacritics,không dấu + phủ định
+H13,Phim hay nhưng kết thúc dở quá,mixed,0,1,mixed,ưu tiên mệnh đề sau 'nhưng' (4.5)
+H14,Đồ ăn dở nhưng nhân viên dễ thương nên tạm chấp nhận,mixed,1,1,mixed,vế sau lưng chừng → neutral; dễ bất đồng
+H15,"Ship lâu, hàng ok, giá hợp lý",mixed,2,1,mixed,"1 chê, 2 khen; không có mệnh đề kết luận rõ"
+H16,"Ừ giỏi lắm, giỏi nhất cái xóm này luôn 🙃",sarcasm,0,1,sarcasm,emoji 🙃 đảo nghĩa khen (4.4)
+H17,"Hay quá ha, chờ 2 tiếng mới có đồ ăn",sarcasm,0,0,sarcasm,mâu thuẫn ngay trong câu
+H18,"Làm ơn đừng đăng nữa, cảm ơn nhiều lắm",sarcasm,0,1,sarcasm,'cảm ơn' mang nghĩa mỉa; dễ bị đọc là positive
+H19,Shop ơi cho mình hỏi size M còn không?,question,1,0,,hỏi thông tin thuần
+H20,Sao dở vậy trời?,rhetorical_question,0,0,rhetorical_question,câu hỏi tu từ mang thái độ (4.6)
+H21,Giá bao nhiêu vậy ad?,question,1,0,,hỏi giá
+H22,😂😂😂,emoji_only,,1,emoji_only,😂 nhiều nghĩa khi đứng một mình → không ép nhãn (4.7)
+H23,😡😡😡,emoji_only,0,0,emoji_only,emoji tức giận rõ nghĩa
+H24,❤️❤️❤️,emoji_only,2,0,emoji_only,emoji yêu thích rõ nghĩa
+H25,@user1 xem nè,tag_only,,0,,"chỉ tag, không thái độ → cần chốt với A: excluded (4.1) hay neutral"
+H26,Liên hệ zalo <phone> để đặt hàng giá sỉ,spam,1,0,spam,không thái độ (4.7b)
+H27,"Tội nghiệp bé quá, mong bé mau khỏe",sympathy,0,1,sympathy,đồng cảm = cảm xúc tiêu cực (4.8); dễ bất đồng
+H28,"Cái này mua ở đâu vậy mn, thấy bảo hàng fake",question_hearsay,1,1,,hỏi + nghe nói; thái độ chưa rõ
+H29,"This is so good, quá đỉnh luôn",code_mix,2,0,code_mix,xen tiếng Anh
+H30,Trời ơi xem mà muốn khóc luôn,needs_context,,1,needs_context,cảm động (positive) hay buồn (negative) tùy video
+H31,Bó tay,short_text,0,1,,thán từ bất lực; rất ngắn
+H32,Xem xong chả biết nói gì,needs_context,,1,needs_context,cạn lời tích cực hay tiêu cực?
